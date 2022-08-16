@@ -6,9 +6,10 @@
 </head>
 <body>
 <h1>
-	Hello world!  minhyuck Test 1:11 테스트!
+	Hello world!  minhyuck Test 1:11 íì¤í¸!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<h1>깃허브 연습</h1>
 </body>
 </html>
